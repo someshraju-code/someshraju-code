@@ -1,5 +1,13 @@
 ## Somesh Raju
 
+MSc Data Science @ University of Bristol (Russell Group, 2025)
+📍 London-based | UK Graduate Visa eligible | Open to hybrid/remote roles in Data Science, ML/AI Engineering, and MLOps
+
+#👋 About Me
+A driven Data Scientist with expertise in building end-to-end solutions across machine learning, NLP, and scalable cloud architecture, currently completing a Master's in Data Science at the University of Bristol. Proven ability to deliver projects from concept to deployment, including building high-accuracy predictive models, developing complex NLP pipelines , and engineering a fault-tolerant, event-driven text processing system on AWS. Eager to apply a robust skill set in data-driven problem-solving to drive organizational growth. I have the right to work in UK.
+
+#🎓 Education
+-MSc Data Science, University of Bristol (2024–2025) – Merit track (AI, NLP, Bayesian methods, visual analytics)
 <!--
 **someshraju-code/someshraju-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
